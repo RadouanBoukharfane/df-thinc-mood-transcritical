@@ -1,1 +1,0 @@
-# df-thinc-mood-transcritical
