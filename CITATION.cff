@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "df-thinc-mood-transcritical: double-flux THINC-BVD/MOOD/FCT solver for transcritical real-fluid interfaces"
+type: software
+authors:
+  - family-names: El Oteby
+    given-names: Samir
+    affiliation: Mohammed VI Polytechnic University (UM6P)
+  - family-names: Boukharfane
+    given-names: Radouan
+    affiliation: Mohammed VI Polytechnic University (UM6P)
+license: BSD-2-Clause
+repository-code: "https://github.com/RadouanBoukharfane/df-thinc-mood-transcritical"
+version: 1.0.0
+keywords:
+  - transcritical flows
+  - double-flux method
+  - THINC-BVD
+  - MOOD
+  - Peng-Robinson

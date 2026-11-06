@@ -1,0 +1,13 @@
+{
+  "title": "df-thinc-mood-transcritical: double-flux THINC-BVD/MOOD/FCT solver for transcritical real-fluid interfaces",
+  "upload_type": "software",
+  "description": "Python/NumPy finite-volume solver (double-flux method, THINC-BVD reconstruction, multilevel MOOD and full-vector DMP/FCT, Peng-Robinson equation of state) used to produce all results and figures of: S. El Oteby, R. Boukharfane, Sharp and Conservative Numerical Simulation of Transcritical Material Interfaces in Real-Fluid Multicomponent Flows. The script reproduce_all.sh regenerates every figure and table of the paper.",
+  "creators": [
+    {"name": "El Oteby, Samir", "affiliation": "Mohammed VI Polytechnic University (UM6P)"},
+    {"name": "Boukharfane, Radouan", "affiliation": "Mohammed VI Polytechnic University (UM6P)"}
+  ],
+  "license": "bsd-2-clause",
+  "access_right": "open",
+  "keywords": ["transcritical flows", "pressure-equilibrium preservation", "double-flux method",
+               "THINC-BVD", "MOOD", "bound-preserving flux correction", "Peng-Robinson"]
+}
